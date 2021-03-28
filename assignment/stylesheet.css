@@ -7,10 +7,12 @@
 .main {
   background-color: #DCDCDC;
   padding: 1em;
+  margin-top: 500px;
 }
 
 body {
   background-image: url("record.png");
-  background-repeat: repeat-y;
+  background-repeat: repeat;
   margin: 0;
+  background-color: #A52A2A;
 }
